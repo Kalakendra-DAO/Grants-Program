@@ -11,7 +11,7 @@
 ## Project Overview :page_facing_up: 
 
 ### Overview
-**A tag line:**  NFT marketplace 18+
+**A tag line:**  NFT marketplace
 
 **Project description:**  
 
